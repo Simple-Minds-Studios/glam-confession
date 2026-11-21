@@ -1,0 +1,20 @@
+{
+  "source_repository": "Bartron773/glam-confession",
+  "source_default_sha": "1ad476b791aabc9eb06265ff3a367f123bb8bfc6",
+  "organization_sha_before_audit": "6cbf378b38d2508b4392f6c9ac35e6264882f2a8",
+  "common_ancestor": "1ad476b791aabc9eb06265ff3a367f123bb8bfc6",
+  "source_description": null,
+  "source_homepage": "https://bartron773.github.io/glam-confession/",
+  "preserved_branches": [],
+  "source_branch_map": [
+    {
+      "source_branch": "main",
+      "sha": "1ad476b791aabc9eb06265ff3a367f123bb8bfc6",
+      "preserved_in": "organization main ancestry"
+    }
+  ],
+  "source_tags": [],
+  "issues_and_pull_requests": [],
+  "releases": [],
+  "note": "Git history and branch tips are preserved under archive/personal/*. GitHub issue/PR numbers, review threads, check runs, permissions and secrets are not Git objects. Source records remain at their original URLs. No credential values have been copied."
+}

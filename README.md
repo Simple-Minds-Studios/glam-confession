@@ -26,3 +26,7 @@ Third-party tools, fonts, libraries, trademarks, and media remain subject to the
 
 **Created by Bart Salazar / Simple Minds Studios**  
 Hart, Michigan — 2026
+
+## Public presentation
+
+https://simple-minds-studios.github.io/glam-confession/
